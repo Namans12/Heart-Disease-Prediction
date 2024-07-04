@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # HeartGuard AI
 **Platform Description**:
 HeartGuard AI is a web-based application that utilizes artificial intelligence and machine learning to predict the likelihood of heart disease in individuals. It aims to provide an efficient and convenient way for users to assess their risk of heart disease by analyzing their medical data.
@@ -39,6 +38,3 @@ The aim of the HeartGuard AI project is to:
 - Empower users to take proactive steps towards improving their heart health.
 - Promote heart disease awareness and prevention in the community.
 - Enhance early detection of heart disease, potentially saving lives through early intervention.
-=======
-# Heart-Disease-Prediction
->>>>>>> origin/master
