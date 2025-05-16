@@ -1,4 +1,4 @@
-# HeartGuard AI
+# HeartGuard AI - Heart Disease Prediction
 **Platform Description**:
 HeartGuard AI is a web-based application that utilizes artificial intelligence and machine learning to predict the likelihood of heart disease in individuals. It aims to provide an efficient and convenient way for users to assess their risk of heart disease by analyzing their medical data.
 
